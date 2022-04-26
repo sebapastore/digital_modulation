@@ -1,8 +1,3 @@
-#https://stackoverflow.com/questions/14058340/adding-noise-to-a-signal-in-python
-
-# Signal Generation
-# matplotlib inline
-
 import numpy as np
 import matplotlib.pyplot as plt
 
